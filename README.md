@@ -5,3 +5,4 @@ Passive Multiple
 <br>
 Building Guide <br>
 Gerber files  <br>
+KiCad files
