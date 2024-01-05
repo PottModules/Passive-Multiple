@@ -5,7 +5,7 @@
 Building Guide <br>
 Gerber files  <br>
 KiCad files
-<br>
+<br><br>
 Der Bau des Moduls erfolgt auf eigenes Risiko. 
-Stellt sicher das keine Kurzschlüsse zwischen den Lötpunkten entsteht.
+Stellt sicher das keine Kurzschlüsse zwischen den Lötpunkten entstehen.
 Es wird keine Haftung bei entstehenden Schäden übernommen.
